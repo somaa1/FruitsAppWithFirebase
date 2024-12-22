@@ -61,7 +61,7 @@ class AuthRepoImpl extends AuthRepo {
       return right(userEntity);
     } on CustomException catch (e) {
       log(
-        'Exception in AuthRepoImpl.signInWithEmailAndPassword: ${e.toString()}',
+        'Exception in AuthRepoImpl.signInWithEmailAndPassword : ${e.toString()}',
       );
       return left(ServerFailure(e.message));
     } catch (e) {
