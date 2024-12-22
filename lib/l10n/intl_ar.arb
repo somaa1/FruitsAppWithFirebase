@@ -1,0 +1,22 @@
+{
+  "@@locale": "ar",
+  "start_now": "ابدأ الآن",
+  "skip": "تخط",
+  "welcome_message": "مرحبًا بك في FruitHUB",
+  "find_and_shop": "ابحث وتسوق",
+  "sign_up": "حساب جديد",
+  "dont_have_account": "لا تمتلك حساب؟",
+  "create_account": "قم بإنشاء حساب",
+  "already_have_account": "متلك حساب بالفعل؟",
+  "login": "تسجيل دخول",
+  "forgot_password": "نسيت كلمة المرور؟",
+  "or": "أو",
+  "sign_in_google": "تسجيل بواسطة جوجل",
+  "sign_in_apple": "تسجيل بواسطة أبل",
+  "sign_in_facebook": "تسجيل بواسطة فيسبوك",
+  "full_name": "الاسم كامل",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "terms_conditions": "الشروط والأحكام",
+  "agree_terms": "من خلال إنشاء حساب، فإنك توافق على الشروط و الأحكام الخاصة بنا"
+}

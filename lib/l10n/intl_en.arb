@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+  "start_now": "Start Now",
+  "Hub": "Hub",
+  "skip": "Skip",
+  "welcome_message": "Welcome to FruitHUB",
+  "find_and_shop": "Find and Shop",
+  "sign_up": "Sign Up",
+  "dont_have_account": "Don't have an account?",
+  "create_account": "Create Account",
+  "already_have_account": "Already have an account?",
+  "login": "Login",
+  "forgot_password": "Forgot Password?",
+  "or": "Or",
+  "sign_in_google": "Sign in with Google",
+  "sign_in_apple": "Sign in with Apple",
+  "sign_in_facebook": "Sign in with Facebook",
+  "full_name": "Full Name",
+  "email": "Email",
+  "password": "Password",
+  "terms_conditions": "Terms and Conditions",
+  "agree_terms": "By creating an account, you agree to our Terms and Conditions"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383198602714",
+    "project_id": "fruit-app-fcc51",
+    "storage_bucket": "fruit-app-fcc51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383198602714:android:07041bea1f6c4d916c0ce3",
+        "android_client_info": {
+          "package_name": "com.fruitsecommerce.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnNwcdhurrhwwOYRipWvxxW2PpDkdM7zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
